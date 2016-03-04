@@ -11,7 +11,10 @@ This tool currently works on Linux with network-manager "nmcli".
 
 # About files
 main.py : This is the main python script.
+
 get_ifaces.bash : This shell script returns the list of interfaces available on the system.
+
 dump : This file contains the logs of current IP address of the system.
+
 ip_file : This file contains the output (result) of whatever scan has been done.
 
