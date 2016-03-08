@@ -3,6 +3,8 @@ A network vulnerability scanner
 --------------------------------------------------
 In case of environments, where there are a bunch of computers on local network and all connections are recognised using IP address, this tool can give list of all IP address within a specific range where a browsing session was running and has been temporarily suspended or just closed.
 
+# What it does is iteratively scan a particular range of IP addresses on the local network to check whether there is internet connection available on the particular IP. 
+
 One such case is a campus network, where users need to login to use the network, and logins are made with sessions initiated on a particular IP address. 
 This tool is supposed to change the system IP address, by creating a new network connection using any interface (Ethernet/Wireless), and check whether network connectivity is there or not.
 The readme may not be much clear. So, go forward and try the tool.
