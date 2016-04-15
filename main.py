@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author : Himanshu Shekhar < https://github.com/himanshushekharb16 >
+# Author : Himanshu Shekhar < https://github.com/himanshub16 >
 
 import os, sys, socket, urllib, time
 
